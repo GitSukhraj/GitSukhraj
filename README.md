@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying computer engineering <br>I'm developing my skills in machine learning<br>I did internship in software related company 
+🖥️ I'm currently studying computer engineering <br>🤖 Interested and developing my machine learning skills<br>
 
 
 ## 🌐 Socials:
